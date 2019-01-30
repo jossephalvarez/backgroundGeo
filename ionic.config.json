@@ -1,5 +1,7 @@
 {
   "name": "backgroundGeo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
